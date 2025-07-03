@@ -3,7 +3,8 @@ Incto by Fyrna
 
 > magic-based high-performance micro web framework
 
-> ![WARNING]
+> [!CAUTION]
+> 
 > DO NOT USE THIS, THIS MAGIC FROM UNHOLY BLACK MAGIC BOOK
 >
 > nah, this is just PoC from my random idea that says we can
